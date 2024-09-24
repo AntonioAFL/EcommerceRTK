@@ -1,10 +1,3 @@
-# React + Vite
+# E-Commerce Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-# coding-project-template
+In this project, I learned about Redux Tool Kit (RTK) and implemented a 'Super Coin' system for e-commerce. Also, I created the 'store' to save the global status of the e-commerce and update the total amount and the number of items in the cart.
